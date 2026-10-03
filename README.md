@@ -2,7 +2,7 @@
    <kbd><code>The Bread Project</code></kbd>
  </p>
 
-> [!NOTE]
+
 > `This website is new and has recently launched his debut!`
 
 >
@@ -10,10 +10,10 @@
 >
 > ### This week's verse is:
 >
-> $\color{gray}{\text{Exodus 20:8}}$
+> Exodus 20:8
 >
 > <p align="center">
->  <i>$\color{gray}{\text{"Remember the Sabbath day by keeping it holy".}}$</i>
+>  <i>"Remember the Sabbath day by keeping it holy".</i>
 > </p>
 >
 > <p align="center">
